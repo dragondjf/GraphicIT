@@ -1,6 +1,6 @@
 GraphicIT--图解IT
 -----------------
-##### 1.  ![《图解GNU/Linux操作系统》](https://github.com/dragondjf/GraphicIT/blob/master/%E5%9B%BE%E8%A7%A3GNU%20Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E5%9B%BE%E8%A7%A3Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pptx)
+##### 1.  [《图解GNU/Linux操作系统》](https://github.com/dragondjf/GraphicIT/blob/master/%E5%9B%BE%E8%A7%A3GNU%20Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E5%9B%BE%E8%A7%A3Linux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.pdf)
 
 | 章节      |     名称 |   完成度   |    备注   |
 | :-------- | :--------:| :------: |--------:|
@@ -18,7 +18,7 @@ GraphicIT--图解IT
 | 第十二章  |   Linux参考目录 |  60%  |--------:|
 
 
-##### 2. ![《图解Python》](https://github.com/dragondjf/GraphicIT/blob/master/%E5%9B%BE%E8%A7%A3Python/%E5%9B%BE%E8%A7%A3Python.pptx)
+##### 2. [《图解Python》](https://github.com/dragondjf/GraphicIT/blob/master/%E5%9B%BE%E8%A7%A3Python/%E5%9B%BE%E8%A7%A3Python.pdf)
 
 | 章节      |     名称 |   完成度   |    备注   |
 | :-------- | :--------:| :------: |--------:|
