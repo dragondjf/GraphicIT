@@ -55,7 +55,7 @@ GraphicIT--图解IT
 
 更多的分享请关注个人微信，加入**`图解GNU/Linux操作系统`**社区，获取最新的图解分享，分享成就未来，你值得拥有
 
-![Alt text](./images/group.png)
+![Alt text](https://github.com/dragondjf/GraphicIT/blob/master/images/group.png)
 
 > 第一分享会优先在Github上更新、简书上同步发布；微信和微博会部分更新
 
@@ -69,4 +69,4 @@ GraphicIT--图解IT
 
 > Buy me a coffee, thanks for you bounty！
 
-![Alt text](./images/zhifubao.png)
+![Alt text](https://github.com/dragondjf/GraphicIT/blob/master/images/zhifubao.png)
